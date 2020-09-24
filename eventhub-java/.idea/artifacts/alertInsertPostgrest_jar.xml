@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="alertInsertPostgrest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/alertInsertPostgrest_jar</output-path>
+    <root id="archive" name="alertInsertPostgrest.jar">
+      <element id="module-output" name="eventhub-java" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.16/postgresql-42.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
